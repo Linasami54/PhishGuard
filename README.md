@@ -3,8 +3,6 @@
 Explainable AI system that checks if an email or a link is phishing.
 It uses two machine learning models (one for emails, one for links) together with simple rules, then gives a risk score from 0 to 100, the reasons, and advice.
 
-FC112/313 Introduction to Cyber Security, group project (AI in Cyber Security).
-
 ## How to run
 
 Use Python 3.11.
